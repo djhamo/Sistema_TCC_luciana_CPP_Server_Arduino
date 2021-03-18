@@ -1,0 +1,10 @@
+^C:\USERS\TIAGO\DOCUMENTS\PROJETOS\SISTEMA-TCC-LUCIANA\CLIENT_SIMULADOR\BUILD\CMAKEFILES\ED4A607E468D0D3444427C0765032783\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Tiago/Documents/Projetos/sistema-tcc-luciana/Client_Simulador -BC:/Users/Tiago/Documents/Projetos/sistema-tcc-luciana/Client_Simulador/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Tiago/Documents/Projetos/sistema-tcc-luciana/Client_Simulador/build/Server.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

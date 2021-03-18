@@ -1,0 +1,3 @@
+C:/Users/Tiago/Documents/Projetos/sistema-tcc-luciana/Client_Simulador/build/CMakeFiles/sim_client.dir
+C:/Users/Tiago/Documents/Projetos/sistema-tcc-luciana/Client_Simulador/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tiago/Documents/Projetos/sistema-tcc-luciana/Client_Simulador/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,15 @@
+{
+    "configurations": [{
+      "name": "x64-Debug",
+      "generator": "Visual Studio 16 2019",
+      "configurationType" : "Debug",
+      "inheritEnvironments": [ "msvc_x64" ],
+      "buildRoot":  "${env.LOCALAPPDATA}\\CMakeBuild\\${workspaceHash}\\build\\${name}",
+      "cmakeCommandArgs": "",
+      "buildCommandArgs": "-v",
+      "variables": [{
+        "name": "CMAKE_TOOLCHAIN_FILE",
+        "value": "C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/scripts/buildsystems/vcpkg.cmake"
+      }]
+    }]
+  }

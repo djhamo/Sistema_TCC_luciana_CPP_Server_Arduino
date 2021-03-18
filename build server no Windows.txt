@@ -1,0 +1,3 @@
+Windows
+
+cmake -DCMAKE_TOOLCHAIN_FILE=C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/scripts/buildsystems/vcpkg.cmake ..

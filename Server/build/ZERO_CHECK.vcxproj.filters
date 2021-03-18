@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tiago\Documents\Projetos\sistema-tcc-luciana\Server\build\CMakeFiles\07217aacf21fda9386a924845785ab94\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DC8DD398-B621-3589-9069-2F5D2AD1D740}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++ /Dados/Public/sistema-tcc-luciana/cpp-netlib
+
+sudo apt install cmake
+sudo apt install build-essential
+sudo apt install clang
+sudo apt install doxygen
+sudo apt install pkg-config
+
+git clone https://github.com/Microsoft/vcpkg.git
+cd vcpkg 
+./bootstrap-vcpkg.sh 
+./vcpkg integrate install 
+./vcpkg install cpp-netlib
+./vcpkg install sqlite3
+cmake -DCMAKE_TOOLCHAIN_FILE=/Dados/Public/sistema-tcc-luciana/vcpkg/scripts/buildsystems/vcpkg.cmake ..
+make

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Windows KIT",
+        "toolchainFile": "C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "cmakeSettings": {
+            "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
+            "CMAKE_STAGING_PREFIX": "${workspaceFolder}/build/main.exe",
+            "CMAKE_PREFIX_PATH": [
+                "${workspaceFolder}/build/${buildKit}/out"
+            ]
+        },
+        "preferredGenerator": {
+            "name": "Ninja"
+        }
+    }
+]

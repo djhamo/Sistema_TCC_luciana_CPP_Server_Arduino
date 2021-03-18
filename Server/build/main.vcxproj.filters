@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Tiago\Documents\Projetos\sistema-tcc-luciana\Server\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tiago\Documents\Projetos\sistema-tcc-luciana\Server\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tiago\Documents\Projetos\sistema-tcc-luciana\Server\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06E817AF-8DC0-32F1-A482-16493F09AEC5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

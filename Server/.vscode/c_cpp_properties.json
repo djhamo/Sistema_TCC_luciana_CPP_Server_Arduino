@@ -1,0 +1,14 @@
+// .vscode/c_cpp_properties.json
+{
+    "configurations": [
+        {
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "includePath": [
+                "${default}",
+                "C:\\Users\\Tiago\\Documents\\Projetos\\estudo-cpp\\vcpkg\\installed\\x64-windows\\include\\**"
+            ],
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,3 @@
+/Dados/Public/sistema-tcc-luciana/Server/build/CMakeFiles/rebuild_cache.dir
+/Dados/Public/sistema-tcc-luciana/Server/build/CMakeFiles/edit_cache.dir
+/Dados/Public/sistema-tcc-luciana/Server/build/CMakeFiles/main.dir
